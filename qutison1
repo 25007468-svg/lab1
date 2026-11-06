@@ -1,0 +1,15 @@
+package l1q2;
+
+public class MyProfile {
+    public static void main(String[] args) {
+        System.out.println("=========================================");
+        System.out.println("             PERSONAL PROFILE            ");
+        System.out.println("=========================================");
+        System.out.println("Name:           John Doe");
+        System.out.println("Matric Number:  17200000/1");
+        System.out.println("Address:        123, Jalan University, 50603 Kuala Lumpur");
+        System.out.println("Email:          johndoe@siswamail.um.edu.my");
+        System.out.println("Contact:        +6012-3456789");
+        System.out.println("=========================================");
+    }
+}
